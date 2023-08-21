@@ -1,0 +1,6 @@
+CREATE TABLE Tb01_produto(
+tb01_cod INT PRIMARY KEY,
+tbo1_descricao VARCHAR (100) NOT NULL,
+tb01_preco DOUBLE,
+tb01_qtde INT,
+tb01_foto BLOB );
